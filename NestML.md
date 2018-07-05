@@ -9,10 +9,10 @@
 * `state` - This block is composed of a list of variable declarations that are supposed to describe parts of the neuron which may change over time.
 * `initial_values` - This block describes the initial values of all stated differential equations. Only variables from this block can be further defined with differential equations. The variables in this block can be recorded using a `multimeter`.
 * `internals` - This block is composed of a list of implementation-dependent helper variables that supposed to be constant during the simulation run. Therefore, their initialization expression can only reference parameters or other internal variables.
-* `equations` - This block contains shape definitions and differential equations. It will be explained in further detail [later on in the manual](#equations).
-* `input` - This block is composed of one or more input ports. It will be explained in further detail [later on in the manual](#input).
+* `equations` - This block contains shape definitions and differential equations.
+* `input` - This block is composed of one or more input ports.
 * `output` *`<event_type>`* - Defines which type of event the neuron can send. Currently, only `spike` is supported. No `end` is necessary at the end of this block.
-* `update` - Inside this block arbitrary code can be implemented using the internal programming language. The `update` block defines the runtime behavior of the neuron. It contains the logic for state and equation [updates](#equations) and [refractoriness](#concepts-for-refractoriness). This block is translated into the `update` method in NEST.
+* `update` - Inside this block arbitrary code can be implemented using the internal programming language. The `update` block defines the runtime behavior of the neuron. It contains the logic for state and equation updates and refractoriness. This block is translated into the `update` method in NEST.
 
  __The following blocks are mandataroy: input, output and update__
 
