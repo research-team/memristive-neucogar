@@ -1,7 +1,7 @@
 # block:
-<block_type> [<args>]:
-  ...
-end
+    <block_type> [<args>]:
+      ...
+    end
 
 # Block types
 * neuron <name> - The top-level block of a neuron model called <name>. The content will be translated into a single neuron model that can be instantiated in PyNEST using nest.Create(<name>). All following blocks are contained in this block.
