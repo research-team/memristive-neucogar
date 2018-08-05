@@ -70,6 +70,24 @@ Differences in the expression of the receptors could also play an essential role
 
 ---
 
+### 5-HTR1A (Materials from letter)
+
+The letter lists the proteins and presents a large number of connections and relationships between them.
+
+The most interesting png-files are files with 5-HTR1A in the header. Files with diseases in headers can be useful for educational purposes.
+
+![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20Membrane%20Transport.png)
+![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20Vascular%20Motility.png)
+![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20IL6%20Production.png)
+
+![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/Serotonin%20Receptors%20Signaling.png)
+![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/Serotonin%20Signaling%20in%20the%20Ciliary%20Body.png)
+![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/Vascular%20Motility.png)
+
+Further study may require studying of csv files and searching for patterns.
+
+---
+
 ### 5-HT1B
 
 Serotonin 5-HT1B receptors, previously known as 5-HT1D receptors, are primarily located in the basal ganglia, striatum, hippocampus and vascular smooth muscle. 5-HT1B receptors play a role in thermoregulation, respiration, appetite control, sexual behavior and aggression.
