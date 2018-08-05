@@ -153,6 +153,25 @@ Taking into account the involvement of the 5-HT7 receptors in so many physiologi
 
 ---
 
+### Materials from conference (July, 2018)
+
+![](https://pp.userapi.com/c846124/v846124597/b3c20/mPyUIT130Wg.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3c4e/nxM-Q2lJcSg.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3c3d/jb1XABztoPI.jpg)
+
+Long-term memory is formed in few hours, persist years with the aid of local reproduction of memory-specific  protein molecules in synapses.
+PKMz molecules are a critical component of memory throughout  the lifetime of a neuron and are a basis of memory stability via ability of local maintenance of concentration.
+Local (synaptic) productuion of NO is presumed to be a basis for memory modification via LOCAL nitrozilation of memory-specific molecules.
+
+![](https://pp.userapi.com/c846124/v846124597/b3c94/e8QctTG5VTA.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3ca7/f-vM3r13ZPM.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3cb5/kY5_vVKEweE.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3cf6/jie7zhPZxYc.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3cd8/xssB68JNrlw.jpg)
+![](https://pp.userapi.com/c846124/v846124597/b3cec/MFIeVj28dSc.jpg)
+
+---
+
 #### Useful links:
 
 - https://resources.tocris.com/pdfs/literature/reviews/5ht-review-2018.pdf Overview of all kinds of receptors in scientific language
