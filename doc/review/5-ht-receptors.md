@@ -76,13 +76,7 @@ The letter lists the proteins and presents a large number of connections and rel
 
 The most interesting png-files are files with 5-HTR1A in the header. Files with diseases in headers can be useful for educational purposes.
 
-![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20Membrane%20Transport.png)
-![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20Vascular%20Motility.png)
-![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20IL6%20Production.png)
 
-![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/Serotonin%20Receptors%20Signaling.png)
-![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/Serotonin%20Signaling%20in%20the%20Ciliary%20Body.png)
-![](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/Vascular%20Motility.png)
 
 Further study may require studying of csv files and searching for patterns.
 
