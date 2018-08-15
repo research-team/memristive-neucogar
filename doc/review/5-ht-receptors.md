@@ -83,7 +83,7 @@ This gene encodes a G protein-coupled receptor for 5-hydroxytryptamine (serotoni
 Cell Localization:	Cell membrane
 
 ###### Protein  HTR1B  (5-hydroxytryptamine receptor 1B)
-Notes	The protein encoded by this intronless gene is a G-protein coupled receptor for serotonin (5-hydroxytryptamine). Ligand binding activates second messengers that inhibit the activity of adenylate cyclase and manage the release of serotonin, dopamine, and acetylcholine in the brain. The encoded protein may be involved in several neuropsychiatric disorders and therefore is often a target of antidepressant and other psychotherapeutic drugs.
+The protein encoded by this intronless gene is a G-protein coupled receptor for serotonin (5-hydroxytryptamine). Ligand binding activates second messengers that inhibit the activity of adenylate cyclase and manage the release of serotonin, dopamine, and acetylcholine in the brain. The encoded protein may be involved in several neuropsychiatric disorders and therefore is often a target of antidepressant and other psychotherapeutic drugs.
 Cell Localization: Cell membrane
 
 ---
@@ -98,7 +98,7 @@ Serotonin treatment of these cells has been reported to inhibit forskolin-stimul
 
 ###### Protein  GNAI3  (G protein subunit alpha i3)
 Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling pathways. G proteins are composed of 3 units: alpha, beta and gamma. This gene encodes an alpha subunit and belongs to the G-alpha family. Mutation in this gene, resulting in a gly40-to-arg substitution, is associated with auriculocondylar syndrome, and shown to affect downstream targets in the G protein-coupled endothelin receptor pathway.
-Cell Localization	Cell membrane; Cytoplasm; cytoskeleton; Membrane
+Cell Localization: Cell membrane; Cytoplasm; cytoskeleton; Membrane
 
 ---
 
