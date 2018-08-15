@@ -70,15 +70,71 @@ Differences in the expression of the receptors could also play an essential role
 
 ---
 
-### 5-HTR1A (Materials from letter)
+### Materials from letter
 
-The letter lists the proteins and presents a large number of connections and relationships between them.
+##### 5-HTR1 - Membrane Transport
 
-The most interesting png-files are files with 5-HTR1A in the header. Files with diseases in headers can be useful for educational purposes.
+---
 
+###### Protein  HTR1A  (5-hydroxytryptamine receptor 1A)
+This gene encodes a G protein-coupled receptor for 5-hydroxytryptamine (serotonin), and belongs to the 5-hydroxytryptamine receptor subfamily. Serotonin has been implicated in a number of physiologic processes and pathologic conditions. Inactivation of this gene in mice results in behavior consistent with an increased anxiety and stress response. Mutation in the promoter of this gene has been associated with menstrual cycle-dependent periodic fevers.
+Cell Localization:	Cell membrane
 
+###### Protein  HTR1B  (5-hydroxytryptamine receptor 1B)
+Notes	The protein encoded by this intronless gene is a G-protein coupled receptor for serotonin (5-hydroxytryptamine). Ligand binding activates second messengers that inhibit the activity of adenylate cyclase and manage the release of serotonin, dopamine, and acetylcholine in the brain. The encoded protein may be involved in several neuropsychiatric disorders and therefore is often a target of antidepressant and other psychotherapeutic drugs.
+Cell Localization: Cell membrane
 
-Further study may require studying of csv files and searching for patterns.
+---
+
+###### Binding serotonin ---- HTR1A
+These observations suggested that serotonergic nerves or other cell types in the saphenous vein are activated by field stimulation to release serotonin, which in turn activates presynaptic 5-HT 1A receptors on adrenergic neurons to effect norepinephrine release.
+
+###### Binding serotonin ---- HTR1B
+Serotonin treatment of these cells has been reported to inhibit forskolin-stimulated cAMP accumulation in the 5-HT 1B -expressing cells, but not the parental HeLa cells.
+
+---
+
+###### Protein  GNAI3  (G protein subunit alpha i3)
+Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling pathways. G proteins are composed of 3 units: alpha, beta and gamma. This gene encodes an alpha subunit and belongs to the G-alpha family. Mutation in this gene, resulting in a gly40-to-arg substitution, is associated with auriculocondylar syndrome, and shown to affect downstream targets in the G protein-coupled endothelin receptor pathway.
+Cell Localization	Cell membrane; Cytoplasm; cytoskeleton; Membrane
+
+---
+
+###### Binding GNAI3 ---- HTR1A
+Second, the presence of a hydrophobic residue at position 351 may stabilise intramolecular G αi3 protein contacts and approximate a receptor-bound state, thereby increasing the interaction of the mutant G αi3 protein with the 5-HT 1A receptor.
+
+###### Binding GNAI3 ---- HTR1B
+We characterised Galpha(i3) subunit activation by h5-HT(1B) receptors stably expressed in Chinese hamster ovary (CHO) cells.
+
+---
+
+###### DirectRegulation (positive) GNAI3 --+> Gb/g
+However, coexpression of Gai3 strikingly reduced basal activity and improved the relative activation by 40 nM Gß?
+High Na+ reduces the binding of Gß? to GST-Gai3.
+Galphai3 primes the G protein-activated K+ channels for activation by coexpressed Gbetagamma in intact Xenopus oocytes.
+
+###### DirectRegulation (positive) Gb/g --+> phosphoinositide phospholipase C
+Recombinant PLC-betaX was activated by both Galphaq and Gbetagamma. 
+A synthetic peptide from the strongest consensus group blocked activation of PLC by G protein betagamma subunits. 
+This effect was mediated by direct binding of Gbetagamma subunits to phospholipase C.
+
+###### DirectRegulation (positive) Gb/g --+> PI3K
+These results show that dystrophin glycoprotein complex-Gbetagamma is binding phosphatidylinositol-3-kinase and activating pAkt in a laminin-dependent manner.
+Release of Gβγ from G i has been shown to cause PI3K activation.
+Gβγ subunits can activate phosphoinositide 3-kinase.
+
+###### DirectRegulation (positive) Gb/g --+> KCNJ3
+These results indicate that G beta gamma dissociated from G alpha may directly bind to the C terminus of GIRK1.
+Thus G beta gamma appears to be sufficient for the activation of GIRK1 muscarinic potassium channels.
+Gbeta gamma binds to both GIRK1 and GIRK4 subunits of the heteromultimeric IKACh.
+
+---
+
+###### Protein  KCNJ3  (potassium voltage-gated channel subfamily J member 3)
+Potassium channels are present in most mammalian cells, where they participate in a wide range of physiologic responses. The protein encoded by this gene is an integral membrane protein and inward-rectifier type potassium channel. The encoded protein, which has a greater tendency to allow potassium to flow into a cell rather than out of a cell, is controlled by G-proteins and plays an important role in regulating heartbeat. It associates with three other G-protein-activated potassium channels to form a heteromultimeric pore-forming complex that also couples to neurotransmitter receptors in the brain and whereby channel activation can inhibit action potential firing by hyperpolarizing the plasma membrane. These multimeric G-protein-gated inwardly-rectifying potassium (GIRK) channels may play a role in the pathophysiology of epilepsy, addiction, Down's syndrome, ataxia, and Parkinson's disease. Alternative splicing results in multiple transcript variants encoding distinct proteins.
+Cell Localization: Membrane
+
+(https://mammalcedfx.pathwaystudio.com/app/sd?full=true&layout=flat&entitylist=HTR1a#)
 
 ---
 
@@ -197,4 +253,3 @@ Local (synaptic) productuion of NO is presumed to be a basis for memory modifica
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381222/ 5-HT2B receptors are required for serotonin-selective antidepressant actions
 - http://www.sdbonline.org/sites/fly/genebrief/serotonin5ht7.htm Overview of 5-HT7 in scientific language
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181333/ Cellular mechanisms of the 5-HT7 receptor-mediated signaling
-
