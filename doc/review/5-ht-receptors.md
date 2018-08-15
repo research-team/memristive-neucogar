@@ -74,6 +74,8 @@ Differences in the expression of the receptors could also play an essential role
 
 ##### 5-HTR1 - Membrane Transport
 
+![](https://github.com/research-team/memristive-neucogar/blob/master/doc/review/HTR1%20-_%20Membrane%20Transport.png)
+
 ---
 
 ###### Protein  HTR1A  (5-hydroxytryptamine receptor 1A)
