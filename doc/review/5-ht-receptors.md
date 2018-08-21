@@ -83,7 +83,7 @@ This gene encodes a G protein-coupled receptor for 5-hydroxytryptamine (serotoni
 Cell Localization:	Cell membrane
 
 ###### Protein  HTR1B  (5-hydroxytryptamine receptor 1B)
-The protein encoded by this intronless gene is a G-protein coupled receptor for serotonin (5-hydroxytryptamine). Ligand binding activates second messengers that inhibit the activity of adenylate cyclase and manage the release of serotonin, dopamine, and acetylcholine in the brain. The encoded protein may be involved in several neuropsychiatric disorders and therefore is often a target of antidepressant and other psychotherapeutic drugs.
+Notes	The protein encoded by this intronless gene is a G-protein coupled receptor for serotonin (5-hydroxytryptamine). Ligand binding activates second messengers that inhibit the activity of adenylate cyclase and manage the release of serotonin, dopamine, and acetylcholine in the brain. The encoded protein may be involved in several neuropsychiatric disorders and therefore is often a target of antidepressant and other psychotherapeutic drugs.
 Cell Localization: Cell membrane
 
 ---
@@ -98,7 +98,7 @@ Serotonin treatment of these cells has been reported to inhibit forskolin-stimul
 
 ###### Protein  GNAI3  (G protein subunit alpha i3)
 Guanine nucleotide-binding proteins (G proteins) are involved as modulators or transducers in various transmembrane signaling pathways. G proteins are composed of 3 units: alpha, beta and gamma. This gene encodes an alpha subunit and belongs to the G-alpha family. Mutation in this gene, resulting in a gly40-to-arg substitution, is associated with auriculocondylar syndrome, and shown to affect downstream targets in the G protein-coupled endothelin receptor pathway.
-Cell Localization: Cell membrane; Cytoplasm; cytoskeleton; Membrane
+Cell Localization	Cell membrane; Cytoplasm; cytoskeleton; Membrane
 
 ---
 
@@ -208,6 +208,63 @@ The 5-HT2B receptor subtype is involved in:
 - Serotonin transporter: 5-HT2B receptors regulate serotonin release via the serotonin transporter, and are important both to normal physiological regulation of serotonin levels in blood plasma, and with the abnormal acute serotonin release produced by drugs such as MDMA. Surprisingly however 5-HT2B receptor activation appears to be protective against the development of serotonin syndrome following elevated extracellular serotonin levels, despite its role in modulating serotonin release.
 
 (https://en.wikipedia.org/wiki/5-HT2B_receptor)
+
+---
+
+### Materials from letter
+
+##### 5-HTR2 - Membrane Transport
+
+---
+
+###### Protein  HTR2A  (5-hydroxytryptamine receptor 2A)
+This gene encodes one of the receptors for serotonin, a neurotransmitter with many roles. Mutations in this gene are associated with susceptibility to schizophrenia and obsessive-compulsive disorder, and are also associated with response to the antidepressant citalopram in patients with major depressive disorder (MDD). MDD patients who also have a mutation in intron 2 of this gene show a significantly reduced response to citalopram as this antidepressant downregulates expression of this gene. Multiple transcript variants encoding different isoforms have been found for this gene.
+Cell Localization:	Cell membrane; Cell projection; Cytoplasmic vesicle; dendrite; Membrane
+
+###### Protein  HTR2B  (5-hydroxytryptamine receptor 2B)
+This gene encodes one of the several different receptors for 5-hydroxytryptamine (serotonin) that belongs to the G-protein coupled receptor 1 family. Serotonin is a biogenic hormone that functions as a neurotransmitter, a hormone, and a mitogen. Serotonin receptors mediate many of the central and peripheral physiologic functions of serotonin, including regulation of cardiovascular functions and impulsive behavior. Population and family-based analyses of a minor allele (glutamine-to-stop substitution, designated Q20*) which blocks expression of this protein, and knockout studies in mice, suggest a role for this gene in impulsivity. However, other factors, such as elevated testosterone levels, may also be involved. Alternatively spliced transcript variants have been found for this gene.
+Cell Localization: Cell junction; Cell membrane; synapse
+
+---
+
+###### DirectRegulation (positive) serotonin --+> HTR2A
+To clarify the role of serotonin, the in vivo and in vitro effects of the selective 5-HT2 receptor antagonist, DV-7028, on monocrotaline-induced pulmonary hypertension were studied.
+It is an antagonist of presynaptic alpha 2-adrenergic autoreceptors and heteroreceptors on both norepinephrine and serotonin (5-HT) presynaptic axons, plus is a potent antagonist of postsynaptic 5-HT2 and 5-HT3 receptors.
+Two 5-hydroxy tryptamine receptors (HTR1D and HTR2A) were over-expressed in type 2 diabetes islet donors.
+
+###### Regulation (positive) serotonin --+> HTR2B
+In this paper, we present evidence that activation of 5-hydroxytryptamine 2B (5-HT2B) receptors by serotonin (5-HT) leads to cell-cycle progression through retinoblastoma protein hyperphosphorylation and through activation of both cyclin D1/cdk4 and cyclin E/cdk2 kinases by a mechanism that depends on induction of cyclin D1 and cyclin E protein levels.
+In these cases, the pathogenesis is suspected to involve serotonin-mediated abnormal fibrogenesis by means of the 5-HT2B receptors, which are expressed in the fibroblasts of heart valves.
+Upon coexpression, serotonin-induced internalization of 5-HT(2B) receptors was accelerated 5-fold and was insensitive to a 5-HT(2B) receptor antagonist.
+
+---
+
+###### Protein GNAQ  (G protein subunit alpha q)
+This locus encodes a guanine nucleotide-binding protein. The encoded protein, an alpha subunit in the Gq class, couples a seven-transmembrane domain receptor to activation of phospolipase C-beta. Mutations at this locus have been associated with problems in platelet activation and aggregation. A related pseudogene exists on chromosome 2.
+Cell Localization:	Membrane; Nucleus; Nucleus membrane
+
+---
+
+###### DirectRegulation (positive) HTR2A --+> GNAQ
+These results suggest that fluoxetine gradually increases the G-protein coupling of 5-HT2A/2C receptors without altering the levels of Gq- or G11-proteins.
+Consequently, serotonin was able to promote ADP induced aggregation through activation of the Gq coupled 5HT(2A) receptor while adrenaline had no such effect.
+Cav-1 appeared to modulate 5-HT(2A) signaling by facilitating the interaction of 5-HT(2A) receptors with Galpha(q).
+
+---
+
+###### DirectRegulation (positive) HTR2A --+> GNAQ
+These results suggest that fluoxetine gradually increases the G-protein coupling of 5-HT2A/2C receptors without altering the levels of Gq- or G11-proteins.
+Consequently, serotonin was able to promote ADP induced aggregation through activation of the Gq coupled 5HT(2A) receptor while adrenaline had no such effect.
+Cav-1 appeared to modulate 5-HT(2A) signaling by facilitating the interaction of 5-HT(2A) receptors with Galpha(q).
+
+###### Binding GNAQ ---- HTR2B
+Using cultured cardiomyocytes and 5-hydroxytryptamine (5-HT)2B-receptor knockout mice as an animal model of dilated cardiomyopathy, for the first time we show that serotonin via the Gq-coupled 5-HT2B-receptor protect cardiomyocytes against serum deprivation-induced apoptosis as manifested by DNA fragmentation, nuclear chromatin condensation, and TUNEL labeling.
+We have generated transgenic mice overexpressing the Gq-coupled 5-HT2B receptor specifically in heart.
+
+---
+
+###### Protein  GNAQ  (G protein subunit alpha q)
+Notes	This locus encodes a guanine nucleotide-binding protein. The encoded protein, an alpha subunit in the Gq class, couples a seven-transmembrane domain receptor to activation of phospolipase C-beta. Mutations at this locus have been associated with problems in platelet activation and aggregation. A related pseudogene exists on chromosome 2.
 
 ---
 
