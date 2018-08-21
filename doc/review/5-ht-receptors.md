@@ -215,6 +215,10 @@ The 5-HT2B receptor subtype is involved in:
 
 ##### 5-HTR2 - Membrane Transport
 
+![](https://github.com/research-team/memristive-neucogar/blob/master/doc/review/HTR2%20-_%20Membrane%20Transport.png)
+
+(https://mammalcedfx.pathwaystudio.com/app/sd?full=true&layout=flat&entitylist=HTR2#)
+
 ---
 
 ###### Protein  HTR2A  (5-hydroxytryptamine receptor 2A)
